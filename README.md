@@ -1324,6 +1324,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vudal](https://github.com/Egorvah/vudal) - Modal window for vue.js
 - [vodal](https://github.com/chenjiahan/vodal) - A vue modal with animations.
 - [vue-image-lightbox](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
+- [vue-it-bigger](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
 - [vue2-simplert](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
 - [Vue-Semantic-Modal](https://github.com/David-Desmaisons/Vue-Semantic-Modal) - Vue 2 Semantic-UI modal component without jQuery dependency
 - [v-img](https://github.com/crowdbotics/v-img) - Easy to install image gallery.
